@@ -1,4 +1,5 @@
 ---
 layout: default
 ---
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furionlinejudge%2Fphotos%2Fa.285359458200420.65006.285358718200494%2F1325009700902052%2F%3Ftype%3D3&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowTransparency="true" align="left"></iframe>
+<blockquote class="embedly-card"><h4><a href="https://www.urionlinejudge.com.br/judge/en/problems/index/1">Beginner - URI Online Judge</a></h4><p>URI Online Judge is a project developed by the Computer Science Department of URI University. Our goal is to promote programming practice and knowledge sharing.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
