@@ -63,7 +63,7 @@ layout: default
 }
 </style>
 <div class="navbar">
-  <a href="index.html">Home</a>
+  <a href="https://mrrobi.github.io">Home</a>
   <a href="news.html">News</a>
   <div class="dropdown">
     <button class="dropbtn">More
